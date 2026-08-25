@@ -1,4 +1,4 @@
-## 📘 TypeScript Learning Notes
+## 📘 TypeScript Learning Notes  
 
 --
 
